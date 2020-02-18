@@ -2,4 +2,4 @@
 
 Slack widget for your website
 
-http://airwidget.app/
+Project is not supported
